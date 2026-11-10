@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body><w:p><w:pPr><w:pStyle w:val="title"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Trabajo grupal 2 (Métodos Numéricos)</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Sección: 5</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>N.º de grupo: 1</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Integrante 1 (líder): Maydelith Laura Zuñiga Cabrera — Participación: 100 %</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Integrante 2: Jesus Alberto Anyoza Lara — Participación:  %</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Integrante 3:Shaila Yadhira Flores Rosales — Participación: %</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Integrante 4:Humberto Ricardo Velito Neira — Participación:  %</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Integrante 5:Mauricio Santos Vilchez — Participación: %</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t></w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t></w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="444"/><w:attr w:name="width" w:val="1008"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId1"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="780"/><w:attr w:name="width" w:val="1016"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId2"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="195"/><w:attr w:name="width" w:val="1010"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId3"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="719"/><w:attr w:name="width" w:val="1015"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId4"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="165"/><w:attr w:name="width" w:val="1017"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId5"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="605"/><w:attr w:name="width" w:val="1016"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId6"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t></w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="487"/><w:attr w:name="width" w:val="1015"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId7"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="816"/><w:attr w:name="width" w:val="1013"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId8"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="566"/><w:attr w:name="width" w:val="1014"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId9"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="852"/><w:attr w:name="width" w:val="1017"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId10"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>DESARROLLO — a) Formulación del PVI y eventos</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Variables de estado: Y = [P; T; ω₁; ω₂]. Aquí ω₁ es la velocidad real de la bomba (ω) y ω₂ es qué tan rápido está cambiando (dω/dt). Unidades: P en kPa, T en °C, ω₁ sin unidades y ω₂ en s⁻¹. Al inicio la presión es 50 kPa, la temperatura 68 °C, la bomba está en 0,20 y no está acelerando todavía, es decir, Y(0) = [50; 68; 0,20; 0].</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Señal de mando: s(t) = 0,20 + 0,65(1 − exp(−1,10t)), con t en segundos. Esta señal sube de 0,20 a 0,85, igual que en la Figura 2. Con los datos de las figuras 1 y 2, el sistema queda así:</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>P′ = (0,0060ω₁ − 3,8×10⁻⁴√P)/(4,0×10⁻⁴).</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>T′ = [0,0060ω₁(18 − T)]/[(4,0×10⁻⁴)P] + [45000 − 320(T − 24)]/[900×2000×(4,0×10⁻⁴)P].</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>ω₁′ = ω₂;     ω₂′ = [0,20 + 0,65(1 − exp(−1,10t)) − 1,10ω₂ − ω₁]/0,80.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Qué significa cada evento: tT42 es el primer momento en que el fluido se enfría y baja de 42 °C. tω70 es el primer momento en que la bomba sube y llega a 0,70 de su régimen nominal. tP,mín y Pmín son el instante y el valor de la presión más baja durante los 20 s. test,T es el momento desde el cual la temperatura ya no se aleja más de 0,5 K de su valor final, T(20 s).</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Cómo sale la fórmula del cruce: entre dos nodos consecutivos cambiamos la curva por una recta (la secante) que une los dos puntos. Igualamos esa recta al umbral, y* = yi + [(yi+1 − yi)/(ti+1 − ti)](t* − ti), y despejamos t*: t* = ti + [(y* − yi)/(yi+1 − yi)](ti+1 − ti). La fórmula solo sirve si yi+1 es distinto de yi y si el umbral queda entre los dos valores, es decir, (yi − y*)(yi+1 − y*) &lt; 0.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Dirección del cruce y nodos exactos: miramos los signos de (yi − y*) y (yi+1 − y*). Si pasa de positivo a negativo, el cruce es descendente; si pasa de negativo a positivo, es ascendente. Si el umbral cae justo en un nodo, anotamos ese tiempo una sola vez (no lo contamos otra vez en el tramo vecino) y miramos los nodos de al lado para ver si de verdad lo cruza o solo lo toca. Si dos nodos seguidos valen justo el umbral, ese tramo no define un cruce único.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Dos errores distintos: el error del integrador es el que comete RK4 al calcular los valores en los nodos; en una solución suave baja como h⁴. El error de interpolación aparece porque la recta no es la curva: en un cruce simple (y′(t*) ≠ 0), la diferencia entre el tiempo calculado con la recta y el tiempo real es aproximadamente −y″(t*)/(2y′(t*)) · (t* − ti)(ti+1 − t*), que como máximo es del orden de (h²/8)·|y″/y′|; es decir, baja como h². Por eso una curva que se ve suave no asegura tiempos exactos: los valores en los nodos pueden ser muy buenos y, aun así, el instante del evento, que cae entre dos nodos, puede tener un error mayor.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>Código a) — Parámetros, estado inicial y modelo</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="code"/></w:pPr><w:r><w:t><![CDATA[% a) FORMULACION DEL PVI Y DATOS DEL PROBLEMA
+clearvars; close all; clc;
+format long g;
+
+% Parametros en las unidades exigidas por el enunciado.
+p.Qmax = 0.0060;       % m^3/s
+p.Kv = 3.8e-4;        % m^3/(s*kPa^(1/2))
+p.Ch = 4.0e-4;        % m^3/kPa
+p.rho = 900;          % kg/m^3
+p.cp = 2000;          % J/(kg*K)
+p.Qgen = 45000;       % W
+p.UA = 320;           % W/K
+p.Tin = 18;           % grados C
+p.Tamb = 24;          % grados C
+p.tau = 0.80;         % s^2
+p.alpha = 1.10;       % s
+p.lambda = 1.10;      % s^(-1)
+p.dT = 0.5;           % K: semiancho de la banda terminal
+
+% Y = [P; T; omega_1; omega_2], con omega_2 = d(omega_1)/dt.
+tspan = [0, 20];      % s
+Y0 = [50; 68; 0.20; 0];
+Nval = [50, 100, 200, 400, 800];
+senal = @(t) 0.20 + 0.65*(1 - exp(-p.lambda.*t));
+f = @(t,Y) modelo_pvi(t,Y,p);
+
+fprintf('PVI: Y0 = [%.1f; %.1f; %.2f; %.1f]. Horizonte: [%.1f, %.1f] s.\n', ...
+    Y0(1),Y0(2),Y0(3),Y0(4),tspan(1),tspan(2));
+]]></w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="640"/><w:attr w:name="width" w:val="1021"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId11"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>DESARROLLO — b) Método RK4 de paso constante</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>La función rk4_sistema(f,tspan,Y0,N) está al final del archivo. Calcula el paso h = (tf − t0)/N, arma el vector columna con los N+1 tiempos y devuelve una matriz de N+1 filas y m columnas, donde cada fila es el estado en un instante. En cada paso calcula las cuatro pendientes k1, k2, k3 y k4 (siempre como vectores columna) y las combina con (k1 + 2k2 + 2k3 + k4)·h/6.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Para comprobar que la función sirve para cualquier sistema, la probamos con dos casos sencillos cuya respuesta ya conocemos: y″ + y = 0 (dos ecuaciones que no dependen del tiempo) y y′ = t (una ecuación que sí depende del tiempo). Si el error es muy pequeño, el código pasa la prueba.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>Código b) — Pruebas de generalidad</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="code"/></w:pPr><w:r><w:t><![CDATA[% b) PRUEBAS DE LA FUNCION GENERAL rk4_sistema
+% La implementacion completa figura entre las funciones locales del final.
+% Prueba autonoma de dimension 2: y'' + y = 0.
+[tAuto,YAuto] = rk4_sistema(@(t,y) [y(2); -y(1)], [0,1], [1;0], 100);
+errorAuto = norm(YAuto(end,:)' - [cos(1); -sin(1)],inf);
+assert(errorAuto < 1e-7, 'No se supero la prueba autonoma de RK4.');
+
+% Prueba no autonoma de dimension 1: y' = t, y(0)=0; y(2)=2.
+[tNoAuto,YNoAuto] = rk4_sistema(@(t,y) t, [0,2], 0, 10);
+errorNoAuto = abs(YNoAuto(end,1)-2);
+assert(errorNoAuto < 1e-10, 'No se supero la prueba no autonoma de RK4.');
+assert(iscolumn(tAuto) && size(YAuto,1)==numel(tAuto));
+assert(iscolumn(tNoAuto) && size(YNoAuto,2)==1);
+fprintf('Pruebas RK4 correctas: error autonomo %.3e, no autonomo %.3e.\n', ...
+    errorAuto,errorNoAuto);
+]]></w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="371"/><w:attr w:name="width" w:val="1014"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId12"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>DESARROLLO — c) Simulación y refinamiento</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Resolvemos el problema con las cinco mallas N = 50, 100, 200, 400 y 800 en 0 ≤ t ≤ 20 s. Como el modelo solo tiene sentido con P &gt; 0, el código revisa la presión en todos los nodos y también dentro de cada paso de RK4 (las etapas internas). Si alguna vez saliera P ≤ 0, el programa se detiene con un error: no arreglamos la presión con valor absoluto ni con una constante.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>Código c) — Mallas, control del dominio y gráficos</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="code"/></w:pPr><w:r><w:t><![CDATA[% c) SIMULACION, REFINAMIENTO Y VERIFICACION DEL DOMINIO P>0
+mallas = cell(numel(Nval),1);
+soluciones = cell(numel(Nval),1);
+minP_nodos = zeros(numel(Nval),1);
+minP_etapas = zeros(numel(Nval),1);
+pasos = (tspan(2)-tspan(1))./Nval(:);
+
+for a = 1:numel(Nval)
+    [mallas{a},soluciones{a}] = rk4_sistema(f,tspan,Y0,Nval(a));
+    minP_nodos(a) = min(soluciones{a}(:,1));
+    minP_etapas(a) = presion_min_etapas(f,mallas{a},soluciones{a});
+    assert(minP_nodos(a)>0 && minP_etapas(a)>0, ...
+        'Se detecto una presion no positiva: N = %d.',Nval(a));
+end
+
+tablaDominio = table(Nval(:), minP_nodos, minP_etapas, ...
+    'VariableNames',{'N','Pmin_nodos_kPa','Pmin_etapas_kPa'});
+disp('Comprobacion de presion positiva (kPa):');
+disp(tablaDominio);
+
+% Comparacion de N=200 y N=800; cada panel tiene unidades y leyenda.
+i200 = find(Nval==200,1);
+i800 = find(Nval==800,1);
+t200 = mallas{i200}; y200 = soluciones{i200};
+t800 = mallas{i800}; y800 = soluciones{i800};
+
+figure('Name','RC02 - Trayectorias con RK4','Color','w');
+subplot(3,1,1);
+plot(t200,y200(:,1),'b--','LineWidth',1.3); hold on;
+plot(t800,y800(:,1),'r-','LineWidth',1.2);
+grid on; xlabel('Tiempo (s)'); ylabel('P (kPa)');
+title('Presion en la camara'); legend('N=200','N=800','Location','best');
+
+subplot(3,1,2);
+plot(t200,y200(:,2),'b--','LineWidth',1.3); hold on;
+plot(t800,y800(:,2),'r-','LineWidth',1.2);
+plot([tspan(1),tspan(2)],[42,42],'k:','LineWidth',1.0);
+grid on; xlabel('Tiempo (s)'); ylabel('T (grados C)');
+title('Temperatura media'); legend('N=200','N=800','Umbral de 42 C','Location','best');
+
+subplot(3,1,3);
+plot(t200,y200(:,3),'b--','LineWidth',1.3); hold on;
+plot(t800,y800(:,3),'r-','LineWidth',1.2);
+tfino = linspace(tspan(1),tspan(2),1000);
+plot(tfino,senal(tfino),'Color',[0.25,0.55,0.25],'LineWidth',1.1);
+plot([tspan(1),tspan(2)],[0.70,0.70],'k:','LineWidth',1.0);
+grid on; xlabel('Tiempo (s)'); ylabel('omega (adimensional)');
+title('Regimen real de la electrobomba y senal de mando');
+legend('N=200','N=800','s(t)','Umbral omega=0.70','Location','southeast','NumColumns',2);
+
+% Cuanto cambian las curvas al refinar: N=200 contra N=800.
+% Cada nodo de N=200 coincide con uno de cada 4 nodos de N=800.
+comun800 = y800(1:4:end,:);
+difMax = max(abs(comun800 - y200),[],1);
+fprintf('Diferencia maxima N=200 vs N=800 en los nodos comunes:\n');
+fprintf('  P: %.3e kPa | T: %.3e C | omega: %.3e\n',difMax(1),difMax(2),difMax(3));
+[wMax,iwMax] = max(y800(:,3));
+fprintf('omega llega a un maximo de %.4f en t = %.3f s (s_inf = 0.85).\n', ...
+    wMax,t800(iwMax));
+]]></w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Qué se observa al arrancar: la bomba casi no gira (ω = 0,20), así que entra menos fluido (0,0012 m³/s) del que sale por la válvula (≈ 0,0027 m³/s). Por eso la presión baja al inicio, hasta un mínimo de unos 45,94 kPa cerca de t = 1,65 s. Después la bomba acelera, entra más fluido del que sale y la presión sube hasta unos 115,9 kPa en t = 20 s. La temperatura baja de 68 °C a unos 25 °C porque entra fluido frío. La velocidad real ω va detrás de la señal s(t) y se pasa un poco (máximo de 0,872 en t ≈ 4,98 s, cuando s tiende a 0,85) antes de asentarse en 0,85; es un pequeño rebote del actuador.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Qué cambia al refinar la malla: las curvas de N = 200 y N = 800 casi se montan una sobre otra. En los nodos que comparten, la diferencia máxima es de unos 5×10⁻⁶ kPa en P, 4×10⁻⁶ °C en T y 3×10⁻⁷ en ω (el código c) las calcula). Pero que se vean iguales no quiere decir que los tiempos de los eventos coincidan; eso es lo que medimos en d) y e).</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="932"/><w:attr w:name="width" w:val="1016"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId13"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>DESARROLLO — d) Eventos estimados en cada malla</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Para los cruces, la función primer_cruce recorre los nodos en orden, revisa la dirección pedida y aplica la fórmula de la secante en el primer tramo donde ocurre. Si no hay cruce en [0, 20] s, devuelve NaN en vez de extrapolar. Para la presión mínima usamos simplemente min(P) sobre todos los nodos (incluidos t0 y tf); si hay empate, MATLAB toma el primer índice.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Para la permanencia en la banda, buscamos el último nodo que está fuera de la banda (|Ti − TN| &gt; 0,5) y tomamos el nodo siguiente. Si ningún nodo está fuera, el tiempo es t0. Así no nos quedamos con la primera vez que la temperatura entra en la banda, sino con la última, después de la cual ya no sale.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Para afinar un mínimo que cae entre nodos podríamos ajustar una parábola por tres nodos seguidos, (ti−1, Pi−1), (ti, Pi) y (ti+1, Pi+1). Su vértice está en ti + h(Pi−1 − Pi+1)/[2(Pi−1 − 2Pi + Pi+1)], siempre que el denominador no sea cero y la parábola abra hacia arriba. Lo dejamos solo como idea: en la tabla se queda el mínimo discreto, como pide el enunciado.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>Código d) — Cálculo y tabla de eventos</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="code"/></w:pPr><w:r><w:t><![CDATA[% d) ESTIMACION NODAL DE LOS CUATRO EVENTOS
+% Columnas: [tT42, tOmega70, tPmin, Pmin, tEstT].
+eventos = nan(numel(Nval),5);
+for a = 1:numel(Nval)
+    eventos(a,:) = eventos_malla(mallas{a},soluciones{a},p.dT);
+end
+
+tablaEventos = array2table([Nval(:),pasos,eventos], ...
+    'VariableNames',{'N','h_s','tT42_s','tOmega70_s', ...
+                     'tPmin_s','Pmin_kPa','tEstT_s'});
+disp('Eventos RK4: los tiempos y h estan en s; Pmin esta en kPa.');
+disp(tablaEventos);
+
+% Para la tabla se conserva el minimo discreto, incluidos ambos extremos.
+% Una parabola por tres nodos solo se explica teoricamente: no se usa
+% para modificar los resultados exigidos en la tabla.
+]]></w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>El código d) genera la tabla de eventos directamente en MATLAB. El paso h y los tiempos están en segundos, mientras que Pmín se expresa en kPa. Para calcular los errores se conserva la precisión completa.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="701"/><w:attr w:name="width" w:val="1011"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId14"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="489"/><w:attr w:name="width" w:val="1012"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId15"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="248"/><w:attr w:name="width" w:val="1011"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId16"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>DESARROLLO — e) Validación numérica de referencia</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Como referencia usamos ode45 con dos juegos de tolerancias: (RelTol, AbsTol) = (10⁻¹⁰, 10⁻¹²) y (10⁻¹², 10⁻¹⁴). De cada solución usamos su interpolante continuo (deval), buscamos los cruces en 50 001 puntos y luego afinamos cada raíz con fzero. En la segunda corrida también hacemos más exigente la tolerancia de fzero (TolX = 10⁻¹² en la primera y 10⁻¹⁴ en la segunda). Así el tiempo de cada evento no depende de los nodos de ode45.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Para la presión mínima buscamos los puntos donde P′(t) pasa de negativo a positivo y comparamos la presión en esos puntos con la de los extremos t0 y tf; la menor es el mínimo global. Para la banda final usamos gT(t) = |T(t) − T(20)| − 0,5, que cubre las dos fronteras de la banda, y comprobamos que después de la última entrada la temperatura ya no sale. Al final comparamos las dos referencias: si casi no cambian, podemos confiar en ellas para medir los errores de RK4.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>Código e) — Referencias, errores y diagramas loglog</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="code"/></w:pPr><w:r><w:t><![CDATA[% e) REFERENCIA ode45, VERIFICACION DE ESTABILIDAD Y ERRORES
+% ode45 se utiliza solo en la validacion; las cinco mallas anteriores son RK4.
+% Segunda corrida: tolerancias de ode45 Y tolerancia de fzero mas estrictas.
+%                                 RelTol AbsTol  TolX(fzero)
+ref10 = eventos_referencia(f,p,tspan,Y0,1e-10,1e-12,1e-12);
+ref12 = eventos_referencia(f,p,tspan,Y0,1e-12,1e-14,1e-14);
+variacionRef = abs(ref10-ref12);
+
+% Se comprueba la estabilidad de los cuatro tiempos y del valor de Pmin.
+assert(all(variacionRef([1,2,3,5]) < 1e-6) && variacionRef(4)<1e-5, ...
+    'La referencia no es suficientemente estable. Refinar tolerancias.');
+
+nombresRef = {'tT42_s'; 'tOmega70_s'; 'tPmin_s'; 'Pmin_kPa'; 'tEstT_s'};
+tablaRef = table(nombresRef,ref10(:),ref12(:),variacionRef(:), ...
+    'VariableNames',{'Magnitud','Referencia_1','Referencia_2','Variacion_abs'});
+disp('Comparacion de referencias (ode45 y raices refinadas con fzero):');
+disp(tablaRef);
+
+% Errores absolutos: columnas [ET42, Eomega70, EtPmin, EPmin, EestT].
+errores = abs(eventos - repmat(ref12,numel(Nval),1));
+tablaErrores = array2table([Nval(:),pasos,errores], ...
+    'VariableNames',{'N','h_s','E_T42_s','E_omega70_s', ...
+                     'E_tPmin_s','E_Pmin_kPa','E_estT_s'});
+disp('Tabla de los cinco errores absolutos:');
+disp(tablaErrores);
+
+% La referencia debe variar mucho menos que el menor error de RK4.
+menorErrorRK4 = min(errores,[],1);
+disp('Variacion de la referencia / menor error RK4 (debe ser << 1):');
+disp(variacionRef./menorErrorRK4);
+if any(variacionRef > 0.1*menorErrorRK4)
+    warning('La referencia varia demasiado frente al error de RK4.');
+end
+
+% Se grafican exclusivamente errores positivos; no se fabrican valores.
+figure('Name','RC02 - Errores de eventos','Color','w');
+subplot(1,2,1); hold on;
+indicesTiempos = [1,2,3,5];
+etiquetasTiempos = {'T=42 C','omega=0.70','Instante de Pmin','Banda terminal'};
+for k = 1:4
+    j = indicesTiempos(k);
+    valido = isfinite(errores(:,j)) & errores(:,j)>0;
+    if any(valido)
+        loglog(pasos(valido),errores(valido,j),'-o', ...
+            'LineWidth',1.1,'DisplayName',etiquetasTiempos{k});
+    end
+    if any(~valido)
+        fprintf('Serie %s: %d errores nulos o no disponibles sin graficar.\n', ...
+            etiquetasTiempos{k},sum(~valido));
+    end
+end
+set(gca,'XScale','log','YScale','log');   % eje loglog (hold on lo dejaba lineal)
+grid on; xlabel('h (s)'); ylabel('Error absoluto de tiempo (s)');
+title('Errores de tiempo frente a h'); legend('Location','best');
+
+subplot(1,2,2);
+validoP = isfinite(errores(:,4)) & errores(:,4)>0;
+if any(validoP)
+    loglog(pasos(validoP),errores(validoP,4),'-o', ...
+        'LineWidth',1.3,'DisplayName','Error del valor Pmin');
+    legend('Location','best');
+end
+if any(~validoP)
+    fprintf('Error de Pmin: %d valores nulos o no disponibles sin graficar.\n', ...
+        sum(~validoP));
+end
+grid on; xlabel('h (s)'); ylabel('Error absoluto de presion (kPa)');
+title('Error del minimo de presion frente a h');
+]]></w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Valores de referencia: tT42 ≈ 5,03777453 s; tω70 ≈ 2,77735939 s; tP,mín ≈ 1,65494906 s; Pmín ≈ 45,94469535 kPa; test,T ≈ 18,12421588 s. Las dos referencias coinciden en estas cifras, y la diferencia entre ellas es mucho menor que el error más pequeño de RK4, así que sirven para compararlo.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>El código e) genera en MATLAB la tabla de los cinco errores absolutos. En los gráficos loglog, los cuatro errores de tiempo se presentan en un panel y el error de presión en otro. Si algún error es exactamente cero, no se grafica ni se sustituye por un valor artificialmente positivo.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:customXml w:element="image"><w:customXmlPr><w:attr w:name="height" w:val="840"/><w:attr w:name="width" w:val="1020"/><w:attr w:name="verticalAlign" w:val="baseline"/><w:attr w:name="altText" w:val=""/><w:attr w:name="relationshipId" w:val="rId17"/></w:customXmlPr></w:customXml></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>DESARROLLO — f) Discusión técnica y selección de la malla</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Tolerancias que elegimos: 0,03 s (30 ms) para cada tiempo y 0,01 kPa para la presión mínima. Son límites que fijamos para esta actividad, no una norma industrial. Los 30 ms representan el 0,15 % de los 20 s simulados y son pequeños frente al transitorio de varios segundos del actuador. Los 0,01 kPa representan el 0,02 % de la presión inicial (50 kPa) y aproximadamente el 0,25 % de la caída inicial (unos 4 kPa). La elección de tolerancias influye en el resultado: con límites más flexibles (0,1 s y 0,05 kPa), bastaría N = 100.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Al revisar los cinco errores a la vez, N = 400 (h = 0,05 s) es la primera malla que cumple los dos límites. Con N = 200 fallan dos: test,T (≈ 0,0758 s) y tP,mín (≈ 0,0451 s). Con N = 400 ya cumplen: 0,0258 s y 0,0049 s.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Qué evento es más sensible al paso: en la malla más gruesa (N = 50), el mayor error de tiempo es el de test,T (≈ 0,2758 s), seguido por el instante del mínimo de presión (≈ 0,0549 s). Los cruces de 42 °C y de ω = 0,70 son los menos sensibles (errores de 0,006 s y 0,002 s). Del mínimo hay que separar dos cosas: su instante, que solo puede ser un nodo (por eso se queda en ≈ 0,00495 s en N = 800, ya que el nodo mínimo no cambia), y su valor, que sí mejora mucho (error de solo ≈ 0,0000477 kPa en N = 800).</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Qué esperaríamos en teoría (con una solución suave, cruces simples y un mínimo normal): los estados de RK4 en los nodos mejoran como h⁴; los cruces con recta, como h²; el instante del mínimo discreto, como h (porque solo puede cambiar de nodo en nodo); y el valor del mínimo, como h², además del error propio del integrador. La banda terminal, al elegirse entre nodos, cambia a saltos del tamaño de h.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Por qué el error no siempre baja de forma ordenada: al cambiar h también cambia dónde cae el evento respecto de los nodos. A veces el nodo elegido sigue siendo el mismo y el error se queda parado (meseta); otras veces salta a otro nodo. Por eso el error de test,T es igual en N = 100 y N = 200 (0,0758 s) y el de Pmín sube un poquito entre N = 400 y N = 800 (de 4,76×10⁻⁵ a 4,77×10⁻⁵ kPa). Por eso no debemos suponer el mismo orden de convergencia entre cada par de mallas.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Por qué no basta que las curvas de N = 200 y N = 800 se vean iguales: cerca del mínimo la curva es casi plana, así que un cambio de 0,05 s en el instante casi no se nota a simple vista, pero ese cambio es justamente el error de tP,mín.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Límites de revisar test,T solo en los nodos: la temperatura podría salir de la banda un momento entre dos nodos y no lo veríamos; cada malla usa su propio T(tf); y el resultado depende de que tf sea 20 s. Además, test,T no demuestra equilibrio térmico: en t = 20 s la temperatura (≈ 24,99 °C) todavía sigue bajando a unos 0,23 °C/s, o sea que solo está cerca de su valor en ese instante final.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Conclusión: dentro de [0, 20] s, RK4 con N = 400 (h = 0,05 s) cumple los límites que declaramos al compararlo con la referencia de ode45. Lo que sí podemos afirmar con este cálculo: los tiempos de cruce de 42 °C y de ω = 0,70 y el valor de la presión mínima son confiables con esa malla; el instante del mínimo y test,T mejoran más despacio y dependen de la malla. Lo que no podemos afirmar: que el sistema llegue al equilibrio térmico después de 20 s, que no haya oscilaciones más adelante, ni que el modelo represente un equipo real. Para eso habría que simular más tiempo y mejorar o comprobar el modelo con mediciones.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>Código f) — Criterio y funciones auxiliares completas</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="code"/></w:pPr><w:r><w:t><![CDATA[% f) CRITERIO DE ACEPTACION Y ELECCION DE LA MALLA
+% Son tolerancias que fijamos para esta actividad, no normas industriales.
+% 30 ms = 0.15 % del horizonte (20 s); menor que la escala del transitorio.
+% 0.01 kPa = 0.02 % de P(0) y ~0.25 % de la caida inicial de presion (~4 kPa).
+tolTiempo = 0.03;  % s
+tolPresion = 0.01; % kPa
+cumple = all(errores(:,[1,2,3,5])<=tolTiempo,2) & ...
+         errores(:,4)<=tolPresion;
+tablaCriterio = table(Nval(:),cumple, ...
+    'VariableNames',{'N','Cumple_5_errores'});
+disp('Verificacion conjunta de tolerancias:');
+disp(tablaCriterio);
+
+% Sensibilidad: que malla bastaria con tolerancias mas flojas (0.1 s, 0.05 kPa)?
+tolTiempoFloja = 0.10;  % s
+tolPresionFloja = 0.05; % kPa
+cumpleFloja = all(errores(:,[1,2,3,5])<=tolTiempoFloja,2) & ...
+              errores(:,4)<=tolPresionFloja;
+iFloja = find(cumpleFloja,1,'first');
+if ~isempty(iFloja)
+    fprintf('Con tolerancias mas flojas bastaria N=%d.\n',Nval(iFloja));
+end
+
+indiceElegido = find(cumple,1,'first');
+if isempty(indiceElegido)
+    fprintf('Ninguna malla cumple: ampliar N a 1600, 3200, ... y reevaluar.\n');
+else
+    Nelegido = Nval(indiceElegido);
+    fprintf('Malla seleccionada: N=%d, h=%.6f s.\n', ...
+        Nelegido,pasos(indiceElegido));
+    fprintf('Mayor error temporal: %.9f s; error de Pmin: %.9f kPa.\n', ...
+        max(errores(indiceElegido,[1,2,3,5])),errores(indiceElegido,4));
+end
+
+% La banda terminal no prueba equilibrio: evaluar la pendiente al final.
+estadoFinal = soluciones{end}(end,:)';
+pendienteFinal = f(tspan(2),estadoFinal);
+fprintf('En t=20 s: T=%.9f C, dT/dt=%.9f C/s.\n', ...
+    estadoFinal(2),pendienteFinal(2));
+
+% FUNCIONES LOCALES: TODAS LAS FUNCIONES PROPIAS ESTAN AL FINAL DEL MLX.
+function dY = modelo_pvi(t,Y,p)
+    % Primera componente: presion (kPa). El modelo exige P>0.
+    Y = Y(:);
+    if numel(Y)~=4 || ~isfinite(Y(1)) || Y(1)<=0
+        error('modelo_pvi:dominio', ...
+            'Se encontro P<=0 o estado invalido en t=%.16g s.',t);
+    end
+    P = Y(1); T = Y(2); w1 = Y(3); w2 = Y(4);
+    s = 0.20 + 0.65*(1-exp(-p.lambda*t));
+    dP = (p.Qmax*w1 - p.Kv*sqrt(P))/p.Ch;
+    dT = (p.Qmax*w1/(p.Ch*P))*(p.Tin-T) + ...
+         (p.Qgen-p.UA*(T-p.Tamb))/(p.rho*p.cp*p.Ch*P);
+    dw1 = w2;
+    dw2 = (s - p.alpha*w2 - w1)/p.tau;
+    dY = [dP; dT; dw1; dw2];
+end
+
+function [t,Y] = rk4_sistema(f,tspan,Y0,N)
+    % RK4 clasico, dimension arbitraria, tiempo autonomo o no autonomo.
+    if ~(isnumeric(N) && isscalar(N) && N>=1 && N==floor(N))
+        error('rk4_sistema:N','N debe ser un entero positivo.');
+    end
+    if numel(tspan)~=2 || ~(tspan(2)>tspan(1))
+        error('rk4_sistema:tspan','tspan debe ser [t0,tf] con tf>t0.');
+    end
+    Y0 = Y0(:);
+    m = numel(Y0);
+    h = (tspan(2)-tspan(1))/N;
+    t = tspan(1) + (0:N)'*h;
+    Y = zeros(N+1,m);
+    Y(1,:) = Y0';
+    for i = 1:N
+        yi = Y(i,:)';
+        ti = t(i);
+        k1 = f(ti,yi);                     k1 = k1(:);
+        k2 = f(ti+h/2,yi+(h/2)*k1);       k2 = k2(:);
+        k3 = f(ti+h/2,yi+(h/2)*k2);       k3 = k3(:);
+        k4 = f(ti+h,yi+h*k3);             k4 = k4(:);
+        if any([numel(k1),numel(k2),numel(k3),numel(k4)]~=m)
+            error('rk4_sistema:dimension','f debe devolver m componentes.');
+        end
+        ysig = yi+(h/6)*(k1+2*k2+2*k3+k4);
+        if any(~isfinite(ysig))
+            error('rk4_sistema:noFinito','Estado no finito en la iteracion %d.',i);
+        end
+        Y(i+1,:) = ysig';
+    end
+end
+
+function minimo = presion_min_etapas(f,t,Y)
+    % Reconstruye estados internos k2, k3, k4 y revisa su presion.
+    h = t(2)-t(1);
+    minimo = min(Y(:,1));
+    for i = 1:numel(t)-1
+        yi = Y(i,:)'; ti = t(i);
+        k1 = f(ti,yi);
+        y2 = yi+(h/2)*k1;
+        k2 = f(ti+h/2,y2);
+        y3 = yi+(h/2)*k2;
+        k3 = f(ti+h/2,y3);
+        y4 = yi+h*k3;
+        f(ti+h,y4); % Comprobacion explicita de dominio en la cuarta etapa.
+        minimo = min([minimo,y2(1),y3(1),y4(1)]);
+    end
+    if minimo<=0
+        error('presion_min_etapas:dominio','Una etapa RK4 sale de P>0.');
+    end
+end
+
+function tiempo = primer_cruce(t,y,umbral,direccion)
+    % direccion = -1: cruce descendente; +1: ascendente.
+    % Cuenta un nodo exactamente igual al umbral una sola vez.
+    t = t(:); y = y(:); d = y-umbral; n = numel(t);
+    if direccion~=1 && direccion~=-1
+        error('primer_cruce:direccion','Direccion debe ser +1 o -1.');
+    end
+    tiempo = NaN;
+    for i = 1:n
+        if d(i)==0
+            if (i>1 && d(i-1)==0) || (i<n && d(i+1)==0)
+                % Un tramo de nodos consecutivos en el umbral es ambiguo.
+                continue;
+            end
+            iz = find(d(1:i-1)~=0,1,'last');
+            der = find(d(i+1:end)~=0,1,'first');
+            if ~isempty(der), der = i+der; end
+            if isempty(iz) && isempty(der)
+                % Trayectoria identicamente igual al umbral: sin cruce unico.
+                return;
+            elseif isempty(iz)
+                esCruce = ~isempty(der) && sign(d(der))==direccion;
+            elseif isempty(der)
+                esCruce = sign(d(iz))==-direccion;
+            else
+                esCruce = sign(d(iz))==-direccion && ...
+                           sign(d(der))==direccion;
+            end
+            if esCruce
+                tiempo = t(i);
+                return;
+            end
+        end
+        if i<n && d(i)*d(i+1)<0 && sign(d(i))==-direccion
+            tiempo = t(i)+(umbral-y(i))*(t(i+1)-t(i))/(y(i+1)-y(i));
+            return;
+        end
+    end
+end
+
+function v = eventos_malla(t,Y,dT)
+    tT42 = primer_cruce(t,Y(:,2),42,-1);
+    tW70 = primer_cruce(t,Y(:,3),0.70,+1);
+    [Pmin,imin] = min(Y(:,1)); % min devuelve el primer indice en un empate.
+    tPmin = t(imin);
+    fuera = find(abs(Y(:,2)-Y(end,2))>dT,1,'last');
+    if isempty(fuera)
+        testT = t(1);
+    else
+        testT = t(fuera+1);
+    end
+    v = [tT42,tW70,tPmin,Pmin,testT];
+end
+
+function v = eventos_referencia(f,p,tspan,Y0,RelTol,AbsTol,tolRaiz)
+    % Referencia con solucion densa; exploracion fina y raices acotadas.
+    optOde = odeset('RelTol',RelTol,'AbsTol',AbsTol);
+    sol = ode45(f,tspan,Y0,optOde);
+    exploracion = linspace(tspan(1),tspan(2),50001);
+    yy = deval(sol,exploracion);
+    optRaiz = optimset('TolX',tolRaiz,'Display','off');
+    if any(yy(1,:)<=0)
+        error('eventos_referencia:dominio','Presion de referencia no positiva.');
+    end
+
+    % Primer cruce descendente de T=42.
+    candT = find(yy(2,1:end-1)>42 & yy(2,2:end)<=42);
+    if isempty(candT)
+        tT42 = NaN;
+    else
+        j = candT(1);
+        tT42 = fzero(@(z) temperatura_ref(z,sol)-42, ...
+            exploracion([j,j+1]),optRaiz);
+    end
+
+    % Primer cruce ascendente del regimen real omega=0.70.
+    candW = find(yy(3,1:end-1)<0.70 & yy(3,2:end)>=0.70);
+    if isempty(candW)
+        tW70 = NaN;
+    else
+        j = candW(1);
+        tW70 = fzero(@(z) velocidad_ref(z,sol)-0.70, ...
+            exploracion([j,j+1]),optRaiz);
+    end
+
+    % Minimo global: candidatos P'=0 que pasan de - a + y los extremos.
+    gP = (p.Qmax*yy(3,:)-p.Kv*sqrt(yy(1,:)))/p.Ch;
+    candP = find(gP(1:end-1)<0 & gP(2:end)>0);
+    tCandidatos = [tspan(1),tspan(2)];
+    for k = 1:numel(candP)
+        j = candP(k);
+        tRaiz = fzero(@(z) derivada_presion_ref(z,sol,p), ...
+            exploracion([j,j+1]),optRaiz);
+        tCandidatos(end+1) = tRaiz; %#ok<AGROW>
+    end
+    presiones = zeros(size(tCandidatos));
+    for k = 1:numel(tCandidatos)
+        estado = deval(sol,tCandidatos(k));
+        presiones(k) = estado(1);
+    end
+    [Pmin,imin] = min(presiones);
+    tPmin = tCandidatos(imin);
+
+    % Ultima entrada en |T(t)-T(tf)|<=dT: ambas fronteras estan en abs.
+    yf = deval(sol,tspan(2));
+    Tf = yf(2);
+    gT = abs(yy(2,:)-Tf)-p.dT;
+    ultimoFuera = find(gT>0,1,'last');
+    if isempty(ultimoFuera)
+        testT = tspan(1);
+    else
+        if ultimoFuera==numel(exploracion)
+            error('eventos_referencia:banda','El final debe estar en la banda.');
+        end
+        testT = fzero(@(z) abs(temperatura_ref(z,sol)-Tf)-p.dT, ...
+            exploracion([ultimoFuera,ultimoFuera+1]),optRaiz);
+    end
+    posterior = deval(sol,linspace(testT,tspan(2),10001));
+    assert(all(abs(posterior(2,:)-Tf)<=p.dT+1e-8), ...
+        'La trayectoria de referencia abandona la banda terminal.');
+    v = [tT42,tW70,tPmin,Pmin,testT];
+end
+
+function T = temperatura_ref(t,sol)
+    z = deval(sol,t);
+    T = z(2);
+end
+
+function w = velocidad_ref(t,sol)
+    z = deval(sol,t);
+    w = z(3);
+end
+
+function dp = derivada_presion_ref(t,sol,p)
+    z = deval(sol,t);
+    dp = (p.Qmax*z(3)-p.Kv*sqrt(z(1)))/p.Ch;
+end
+]]></w:t></w:r></w:p></w:body></w:document>
